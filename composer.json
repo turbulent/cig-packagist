@@ -1,0 +1,13 @@
+{
+  "name": "cig/empty",
+  "description": "Empty project in the cig namespace.",
+  "type": "library",
+  "license": "None",
+  "authors": [
+    {
+      "name": "Turbulent",
+      "email": "oss@turbulent.ca"
+    }
+  ],
+  "require": {}
+}
